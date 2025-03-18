@@ -1,0 +1,1 @@
+# dss-plugin-google-search-summary-tool
